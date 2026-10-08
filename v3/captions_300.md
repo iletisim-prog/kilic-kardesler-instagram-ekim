@@ -1942,8 +1942,8 @@ Kaydedin 📌
 
 ## 2026-11-11
 
-### 09:30 · POST · Pkiliçtel · Kılıç Beyaz Tel Peyniri
-Dosya: posts/Pkiliçtel.jpg
+### 09:30 · POST · Pkilictel · Kılıç Beyaz Tel Peyniri
+Dosya: posts/Pkilictel.jpg
 
 ```
 Kılıç Beyaz Tel Peyniri · 2,5 kg
@@ -3958,8 +3958,8 @@ Aynı gün teklif için listenizi gönderin 👇
 
 ## 2026-12-16
 
-### 09:30 · POST · Pnarekşisi · Ancora %100 Nar Ekşisi
-Dosya: posts/Pnarekşisi.jpg
+### 09:30 · POST · Pnarieksisi · Ancora %100 Nar Ekşisi
+Dosya: posts/Pnarieksisi.jpg
 
 ```
 Ancora %100 Nar Ekşisi · 350 ml
@@ -4681,8 +4681,8 @@ Kaydedin, ekibinizle paylaşın 📌
 #kılıçkardeşler #toptangıda #sakarya #esnaf #şarküteri #horeca #düzce
 ```
 
-### 19:30 · REELS · Rkiliçtel · Kılıç Beyaz Tel Peyniri
-Dosya: reels/Rkiliçtel.mp4
+### 19:30 · REELS · Rkilictel · Kılıç Beyaz Tel Peyniri
+Dosya: reels/Rkilictel.mp4
 
 ```
 🎬 Kılıç Beyaz Tel Peyniri · 2,5 kg
